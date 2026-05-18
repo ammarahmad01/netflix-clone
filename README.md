@@ -3,6 +3,9 @@
 A full DevSecOps pipeline deploying a Netflix Clone application on AWS using 
 EC2, Docker, Jenkins, SonarQube, Trivy, Prometheus, Grafana, and Kubernetes (EKS).
 
+## Demo Video
+https://drive.google.com/file/d/1uggmx_9TrYVdPmyQV0H54rmDYDXG0FSi/view
+
 ## Project Phases
 
 ### Phase 1 - AWS EC2 Setup
